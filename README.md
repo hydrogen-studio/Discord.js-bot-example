@@ -27,5 +27,3 @@ You have :
 
 ----------
 
-Feel free to open suggestion. But please, don't ask for help about installing stuff, you need to go there for that : https://discord.js.org/#/docs/main/stable/general/welcome
-
